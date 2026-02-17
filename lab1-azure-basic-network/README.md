@@ -166,8 +166,4 @@ Azure firewall mechanism that controls inbound and outbound traffic based on:
 
 A virtual machine can be running but unreachable due to network policy.
 
----
 
-## Resume Summary
-
-Built an Azure virtual network and deployed Windows and Ubuntu VMs in the same subnet; validated internal connectivity using ICMP, configured static private IP addressing, and enforced traffic control through NSG firewall rules.
